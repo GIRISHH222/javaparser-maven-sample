@@ -1,3 +1,4 @@
+#!/bin/bash
 JavaParser and Maven sample
 ---
 
